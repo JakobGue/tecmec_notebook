@@ -1,6 +1,6 @@
 # tecmec_notebook
 
-**Work in progres**
+**Work in progress**
 
 Jupyter Notebook for Engineering Mechanics. Partly depends on a slightly modified version of symbeam.
 
